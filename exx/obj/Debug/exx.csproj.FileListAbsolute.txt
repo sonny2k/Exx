@@ -1,0 +1,17 @@
+D:\exx\exx\bin\Debug\exx.exe.config
+D:\exx\exx\bin\Debug\exx.exe
+D:\exx\exx\bin\Debug\exx.pdb
+D:\exx\exx\bin\Debug\EntityFramework.dll
+D:\exx\exx\bin\Debug\EntityFramework.SqlServer.dll
+D:\exx\exx\bin\Debug\EntityFramework.xml
+D:\exx\exx\bin\Debug\EntityFramework.SqlServer.xml
+D:\exx\exx\obj\Debug\exx.csprojResolveAssemblyReference.cache
+D:\exx\exx\obj\Debug\exx.Properties.Resources.resources
+D:\exx\exx\obj\Debug\exx.StudentManagement.IndexForm.resources
+D:\exx\exx\obj\Debug\exx.StudentManagement.UpdateForm.resources
+D:\exx\exx\obj\Debug\exx.csproj.GenerateResource.Cache
+D:\exx\exx\obj\Debug\exx.exe
+D:\exx\exx\obj\Debug\exx.pdb
+D:\exx\exx\bin\Debug\MyDB.mdf
+D:\exx\exx\bin\Debug\MyDB_log.ldf
+D:\exx\exx\obj\Debug\exx.StudentManagement.CreateForm.resources
